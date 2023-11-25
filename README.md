@@ -1,10 +1,17 @@
-### Um pouco sobre mim 🐺
+### Olá! Eu me chamo Matheus Carvalho 🐺
 
 ##
-- 🔭 Atualmente estou cursando o ensino médio 2/3
-- 🌱 Estudando Java e SQL
-- 💎 Front-end 
-- 📫 Contato: danilocosta1149@gmail.com
+- 💎 Programador Front-end 
+- 🔭 Escritor
+- ❤️ Produtor de Conteúdo
+- 🦖 Dublador 
+- 📫 Contato: 2022325768@ifam.edu.br
+##
+
+### 🎮 No momento desenvolvendo o software `Tune Tracer`
+
+Um software dedicado a atender novatos no mundo da música.
+
 ##
 
  
