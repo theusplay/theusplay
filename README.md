@@ -1,4 +1,3 @@
-### Olá! Eu me chamo Matheus Carvalho 🐺
 
 ##
 - 💎 Programador Front-end 
