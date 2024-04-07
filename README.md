@@ -18,8 +18,9 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusplay&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusplay&hide_progress=true&theme=dracula&width=80%&height=40%)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=theusplay&show_icons=true&theme=dracula" width=1000px height=250px style="display: inline-block;">
+</div>
 
 <br> <!-- Linha vazia para criar espaço -->
 <br>
