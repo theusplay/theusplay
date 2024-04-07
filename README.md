@@ -19,7 +19,7 @@
 <br>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=theusplay&show_icons=true&theme=dracula" width=1000px height=250px style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=theusplay&show_icons=true&theme=gruvbox" width=1000px height=250px style="display: inline-block;">
 </div>
 
 <br> <!-- Linha vazia para criar espaço -->
